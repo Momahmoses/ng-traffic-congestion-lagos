@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Momahmoses%2Fng-traffic-congestion-lagos&branch=main&mainModule=app.py)
+
 # 🚦 Lagos Traffic Congestion Analytics
 
 Real-time traffic congestion monitoring for Lagos — Africa's largest city — using GPS probe data, **PySpark Stream Processing**, **GIS heatmaps**, **Azure Stream Analytics**, and a **Streamlit** live dashboard.
