@@ -1,8 +1,8 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Momahmoses%2Fng-traffic-congestion-lagos&branch=main&mainModule=app.py)
 
-# 🚦 Lagos Traffic Congestion Analytics
+# Lagos Traffic Congestion Analytics
 
-Real-time traffic congestion monitoring for Lagos — Africa's largest city — using GPS probe data, **PySpark Stream Processing**, **GIS heatmaps**, **Azure Stream Analytics**, and a **Streamlit** live dashboard.
+Real-time traffic congestion monitoring for Lagos, Africa's largest city, using GPS probe data, **PySpark Stream Processing**, **GIS heatmaps**, **Azure Stream Analytics**, and a **Streamlit** live dashboard.
 
 ## Problem Statement
 Lagos loses an estimated **$1 billion annually** to gridlock. Corridors like Third Mainland Bridge, Apapa-Oshodi, and Lekki-Epe Expressway routinely see speeds below 10 km/h during peak hours. This platform helps LASTMA, urban planners, and ride-hailing operators make data-driven traffic management decisions.
@@ -40,7 +40,7 @@ streamlit run app.py
 - Worst corridors ranking table
 
 ## Data Sources (Production)
-- **HERE Maps / Google Maps Traffic API** — GPS probe feeds
-- **LASTMA** — Lagos State Traffic Management Authority incidents
-- **OpenStreetMap** — Road network
-- **Azure Event Hubs** — Real-time GPS device ingestion
+- **HERE Maps / Google Maps Traffic API**, GPS probe feeds
+- **LASTMA**, Lagos State Traffic Management Authority incidents
+- **OpenStreetMap**, Road network
+- **Azure Event Hubs**, Real-time GPS device ingestion
